@@ -1,0 +1,27 @@
+_repo: An-Abstract-of-the-Proceedings-of-the-Select-Committee-of-the-House-of-Commons-Appointed-Sess__55064
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Company, Oriental Steam Navigation
+    gutenberg_agent_id: '48177'
+    url: http://www.gutenberg.org/2009/agents/48177
+  - agent_name: House, Great Britain. Parliament.
+    gutenberg_agent_id: '48178'
+    url: http://www.gutenberg.org/2009/agents/48178
+  - agent_name: Peninsular
+    gutenberg_agent_id: '48176'
+    url: http://www.gutenberg.org/2009/agents/48176
+description: ''
+gutenberg_issued: '2017-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An Abstract of the Proceedings of the Select Committee of the House of Commons,
+  Appointed Session, 1849, to Inquire Into the Contract Packet Service
+url: http://www.gutenberg.org/ebooks/55064
