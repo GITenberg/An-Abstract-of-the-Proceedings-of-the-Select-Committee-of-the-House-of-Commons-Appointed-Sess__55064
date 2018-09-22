@@ -1,5 +1,8 @@
 _repo: An-Abstract-of-the-Proceedings-of-the-Select-Committee-of-the-House-of-Commons-Appointed-Sess__55064
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55064-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Company, Oriental Steam Navigation
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '48176'
     url: http://www.gutenberg.org/2009/agents/48176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55064#An-Abstract-of-the-Proceedings-of-the-Select-Committee-of-the-House-of-Commons-Appointed-Sess_
 gutenberg_issued: '2017-07-07'
 gutenberg_type: Text
 identifiers:
